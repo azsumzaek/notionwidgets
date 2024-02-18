@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 <div
   data-skyscanner-widget="FlightSearchWidget"
   data-locale="en-GB"
@@ -14,3 +17,5 @@
   data-powered-by-logo-colour="light"
 ></div>
 <script src="https://widgets.skyscanner.net/widget-server/js/loader.js" async></script>
+</body>
+</html>
