@@ -1,0 +1,16 @@
+<div
+  data-skyscanner-widget="FlightSearchWidget"
+  data-locale="en-GB"
+  data-market="DK"
+  data-currency="DKK"
+  data-responsive="true"
+  data-flight-type="return"
+  data-destination-name="Edinburgh"
+  data-origin-name="Copenhagen"
+  data-colour="#242424"
+  data-widget-padding="25px"
+  data-button-colour="#ff8a00"
+  data-arrow-icon="true"
+  data-powered-by-logo-colour="light"
+></div>
+<script src="https://widgets.skyscanner.net/widget-server/js/loader.js" async></script>
